@@ -1,3 +1,4 @@
 # triggerazurepipeline
 
-We are using this project to call an Azure Devops Pipeline
+
+Within this Porject I have a GitHub Action which calls an Azure Devops Pipeline to build the code upon checkin.
