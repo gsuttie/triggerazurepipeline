@@ -1,4 +1,4 @@
 # triggerazurepipeline
 
 
-Within this Porject I have a GitHub Action which calls an Azure Devops Pipeline to build the code upon checkin.
+This Demo illustrates how easy it is to call an Azure Devops Pipeline from a GitHub Action.
